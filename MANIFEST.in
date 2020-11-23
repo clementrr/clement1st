@@ -1,0 +1,3 @@
+graft clement1st
+global-exclude *.py[cod] __pycache__ *.so *.ipynb
+recursive-exclude  clement1st/jupy *
